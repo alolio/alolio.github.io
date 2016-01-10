@@ -1,0 +1,24 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.container {
+font-family: 'Nunito', sans-serif;
+}
+
+.eglise {
+padding: 5px;
+text-align: center;
+font-family: 'Nunito', sans-serif;
+background-image: url('../images/egl.jpg');
+opacity: 0.73;
+}
+
+.eglise h2 {
+	background-color:  #ebfaeb;
+	opacity: 0.7;
+	margin: 250px;
+	padding: 20px;
+}
+
