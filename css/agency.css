@@ -200,6 +200,31 @@ fieldset[disabled] .btn-xl.active {
     color: #fff;
     background-color: #fec503
 }
+
+@media(min-width: 200px) {
+    .portrait {
+        margin-top: 50px;
+    }
+}
+
+@media(min-width: 300px) {
+    .portrait {
+        margin-top: 50px;
+    }
+}
+
+@media(min-width: 450px) {
+    .portrait {
+        margin-top: 80px;
+    }
+}
+
+@media(min-width: 660px) {
+    .portrait {
+        margin-top: 100px;
+    }
+}
+
 @media (min-width: 768px) {
     .navbar-default {
         background-color: transparent;
