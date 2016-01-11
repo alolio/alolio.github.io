@@ -207,6 +207,7 @@ fieldset[disabled] .btn-xl.active {
     }
     .invitation p {
         font-size: 8px;
+        color:green;
     }
 }
 
@@ -216,6 +217,7 @@ fieldset[disabled] .btn-xl.active {
         }
     .invitation p {
         font-size: 9px;
+        color:green;
     }
 }
 
@@ -225,6 +227,7 @@ fieldset[disabled] .btn-xl.active {
     }
     .invitation p {
         font-size: 9px;
+        color:green;
     }
 }
 
