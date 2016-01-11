@@ -205,17 +205,26 @@ fieldset[disabled] .btn-xl.active {
     .portrait {
         margin-top: 50px;
     }
+    .invitation p {
+        font-size: 12px;
+    }
 }
 
 @media(min-width: 300px) {
     .portrait {
         margin-top: 50px;
+        }
+    .invitation p {
+        font-size: 12px;
     }
 }
 
 @media(min-width: 450px) {
     .portrait {
         margin-top: 80px;
+    }
+    .invitation p {
+        font-size: 12px;
     }
 }
 
