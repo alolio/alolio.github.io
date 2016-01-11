@@ -542,6 +542,22 @@ section h3.section-subheading {
         padding: 0 100px 20px 20px
     }
 }
+.portrait {
+    text-align: center;
+    margin-bottom: 50px
+}
+.portrait img {
+    margin: 0 auto;
+    border: 7px solid #f7f7f7
+}
+.portrait h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none
+}
+.portrait p {
+    margin-top: 0
+}
 .team-member {
     text-align: center;
     margin-bottom: 50px
