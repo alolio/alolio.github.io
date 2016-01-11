@@ -59,6 +59,13 @@ margin-right: auto;
 .portfolio-caption h4, .portfolio-caption p, .portfolio-caption {
     background-color: #f7f7f7;
 }
+.portfolio-caption h4 {
+    padding-bottom: 30px;
+    padding-top: 40px;
+}
+.portfolio-caption p {
+    padding-bottom: 20px;
+}
 .btn-primary {
     color: #fff;
     background-color: #fed136;
@@ -299,7 +306,7 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
     header .intro-text {
-        padding-top: 180px;
+        padding-top: 80px;
         padding-bottom: 200px
     }
     header .intro-text .intro-lead-in {
@@ -594,7 +601,8 @@ section h3.section-subheading {
 }
 .team-member {
     text-align: center;
-    margin-bottom: 50px
+    margin-bottom: 50px;
+    padding-bottom: 100px;
 }
 .team-member img {
     margin: 0 auto;
