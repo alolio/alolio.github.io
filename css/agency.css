@@ -42,6 +42,7 @@ h6 {
     font-weight: 700
 }
 
+
 .rounded {
 margin-left: auto;
 margin-right: auto;
@@ -236,9 +237,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 @media(min-width: 660px) {
-    .portrait {
-        margin-top: 100px;
-    }
+
+    header .intro-text {
+    padding-top: 160px;
+    padding-bottom: 500px
+}
 }
 
 @media (min-width: 768px) {
@@ -280,8 +283,8 @@ header {
     color: #fff
 }
 header .intro-text {
-    padding-top: 50px;
-    padding-bottom: 50px
+    padding-top: 180px;
+    padding-bottom: 600px
 }
 header .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -306,8 +309,8 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
     header .intro-text {
-        padding-top: 80px;
-        padding-bottom: 200px
+        padding-top: 180px;
+        padding-bottom: 600px
     }
     header .intro-text .intro-lead-in {
         font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
