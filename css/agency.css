@@ -212,30 +212,30 @@ fieldset[disabled] .btn-xl.active {
 @media(min-width: 200px) {
     
     header .intro-text {
-    padding-top: 80px;
-    padding-bottom: 500px
+    padding-top: 60px;
+    padding-bottom: 300px
 }
 }
 
 @media(min-width: 300px) {
     header .intro-text {
-    padding-top: 90px;
-    padding-bottom: 500px
+    padding-top: 60px;
+    padding-bottom: 300px
 }
 }
 
 @media(min-width: 450px) {
     header .intro-text {
-    padding-top: 120px;
-    padding-bottom: 600px
+    padding-top: 80px;
+    padding-bottom: 300px
 }
 }
 
 @media(min-width: 660px) {
 
     header .intro-text {
-    padding-top: 120px;
-    padding-bottom: 700px
+    padding-top: 100px;
+    padding-bottom: 500px
 }
 }
 
@@ -244,7 +244,7 @@ fieldset[disabled] .btn-xl.active {
 
 header .intro-text {
     padding-top: 180px;
-    padding-bottom: 700px
+    padding-bottom: 600px
 } 
 
     .navbar-default {
@@ -309,7 +309,7 @@ header .intro-text .intro-heading {
 @media (min-width: 768px) {
     header .intro-text {
         padding-top: 180px;
-        padding-bottom: 700px
+        padding-bottom: 600px
     }
     header .intro-text .intro-lead-in {
         font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -549,7 +549,7 @@ section h3.section-subheading {
 
     header .intro-text {
     padding-top: 180px;
-    padding-bottom: 700px
+    padding-bottom: 600px
     }
 
     .timeline>li {
