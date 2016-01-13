@@ -210,36 +210,31 @@ fieldset[disabled] .btn-xl.active {
 }
 
 @media(min-width: 200px) {
-    .portrait {
-        margin-top: 50px;
-    }
-    .invitation p {
-        font-size: 6px;
-    }
+    
+    header .intro-text {
+    padding-top: 60px;
+    padding-bottom: 300px
+}
 }
 
 @media(min-width: 300px) {
-    .portrait {
-        margin-top: 50px;
-        }
-    .invitation p {
-        font-size: 6px;
-    }
+    header .intro-text {
+    padding-top: 60px;
+    padding-bottom: 300px
+}
 }
 
 @media(min-width: 450px) {
-    .portrait {
-        margin-top: 80px;
-    }
-    .invitation p {
-        font-size: 6px;
-    }
+    header .intro-text {
+    padding-top: 80px;
+    padding-bottom: 300px
+}
 }
 
 @media(min-width: 660px) {
 
     header .intro-text {
-    padding-top: 160px;
+    padding-top: 100px;
     padding-bottom: 500px
 }
 }
